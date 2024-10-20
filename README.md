@@ -7,6 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/m0waqask" target="blank"><img src="https://img.shields.io/twitter/follow/m0waqask?logo=twitter&style=for-the-badge" alt="m0waqask" /></a> </p>
 
+- 🔭 I’m currently working on **my portfolio.**
+
+- 🌱 I’m currently learning **Advanced Web Development, Machine Learning and AI Modelling.**
+
+- 👯 I’m looking to collaborate on **learning with common minded fellows.**
+
+- 🤝 I’m looking for help with **professional?proffesional programming.**
+
+- 👨‍💻 All of my projects are available at [m0waqask.com](m0waqask.com)
+
+- 📝 I regularly write articles on [medium.com/waqas](medium.com/waqas)
+
+- 💬 Ask me about **Islam and other faiths, Calculus, Programming Languages, Philosophies, pretty much anything.**
+
+- 📫 How to reach me **m0waqaskashif@gmail.com**
+
+- 📄 Know about my experiences [ah well gotta make a better resume](ah well gotta make a better resume)
+
+- ⚡ Fun fact **I will master absolutely all Computer Related Fields.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/m0waqask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="m0waqask" height="30" width="40" /></a>
@@ -26,9 +46,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0waqask&" alt="m0waqask" /></p>
 
-
-
-<!---
-m0waqask/m0waqask is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
