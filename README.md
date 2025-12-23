@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=280&section=header&text=KAZ%20WAR&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=MARTIAL%20ARTIST%20%2F%20DEV&descAlignY=55&descAlign=50&animation=fadeIn" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=280&section=header&text=WAQAS%20K&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=MARTIAL%20ARTIST%20%2F%20DEV&descAlignY=55&descAlign=50&animation=fadeIn" alt="header" width="100%"/>
 
 <p>
 <a href="https://twitter.com/m0waqask" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" /></a>
@@ -23,7 +23,7 @@ I approach code with the same discipline I apply to sparring.
 
 * **Current Mood:** Minimizing socialization.
 * **Aesthetic:** Y2K, Frutiger Aero, maximalism.
-* **Status:** Building my portfolio [Kaz.co](https://m0waqask.com)
+* **Status:** Building my portfolio [Kaz.co]([https://m0waqask.com](https://m0waqask.github.io/portfolio/))
 
 ---
 
@@ -68,7 +68,7 @@ I approach code with the same discipline I apply to sparring.
 
 ### <img src="https://media.giphy.com/media/26tn33aiU1jFEOQZnW/giphy.gif" width="35"> Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0waqask&theme=ocean_blue&hide_border=true&background=0D1117" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0waqask&show_icons=true&locale=en&layout=compact&theme=ocean_blue&hide_border=true&bg_color=0D1117" />
@@ -78,4 +78,4 @@ I approach code with the same discipline I apply to sparring.
 
 <div align="center">
 <a href="https://visitorbadge.io/status?path=m0waqask"><img src="https://api.visitorbadge.io/api/visitors?path=m0waqask&label=VISITORS&labelColor=000000&countColor=00d2ff&style=plastic" /></a>
-</div>
+</div> -->
