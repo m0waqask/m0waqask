@@ -1,71 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=280&section=header&text=Muhammad%20Waqas%20Kashif&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%2B%20Student&descAlignY=55&descAlign=50" alt="header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=280&section=header&text=KAZ%20WAR&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=MARTIAL%20ARTIST%20%2F%20DEV&descAlignY=55&descAlign=50&animation=fadeIn" alt="header" width="100%"/>
 
 <p>
-<a href="https://twitter.com/m0waqask" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="m0waqask" /></a>
-<a href="https://instagram.com/m0waqask" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="m0waqask" /></a>
-<a href="https://www.behance.net/m0waqask" target="blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=plastic&logo=behance&logoColor=white" alt="m0waqask" /></a>
-<a href="https://codepen.io/m0waqask" target="blank"><img src="https://img.shields.io/badge/CodePen-000000?style=plastic&logo=codepen&logoColor=white" alt="m0waqask" /></a>
-<a href="https://www.youtube.com/c/dollarhoot" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="m0waqask" /></a>
+<a href="https://twitter.com/m0waqask" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/m0waqask" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/m0waqask" target="blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" /></a>
+<a href="mailto:m0waqaskashif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=m0waqask&label=Profile%20Views&color=0099ff&style=plastic" alt="m0waqask" />
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+### <img src="https://media.giphy.com/media/Q822XAOWYMKOTePoIe/giphy.gif" width="35"> Identity
 
-**Salam Alaikum.** I am a developer and student focused on building clean, functional systems. My current focus is the intersection of modern Web Development and Machine Learning.
+> *"I like stars and the sky and the night. I passionately dislike lazy flat design."*
 
-- 🔭 **Current Work:** Developing my portfolio and personal projects.
-- 🌱 **Current Stack:** Advanced Web Dev, Machine Learning, and AI Modeling.
-- 🤝 **Collaboration:** Open to working on open-source projects or technical research.
-- 💬 **Interests:** Comparative Religion, Calculus, Programming Language Theory, and Philosophy.
-- ⚡ **Fun Fact:** I approach coding with the same discipline I apply to martial arts.
+I am a **Martial Artist** and **Full Stack Developer** with a focus on UI/UX and Cyber Security. My workflow is simple: I build responsive systems, I create intuitive visuals, and I test security protocols.
 
-<br />
+I approach code with the same discipline I apply to sparring. 
 
-### <img src="https://media.giphy.com/media/iTWr1Vfxn2Y5P3O9u8/giphy.gif" width="30"> Tech Stack
+* **Current Mood:** Minimizing socialization.
+* **Aesthetic:** Y2K, Frutiger Aero, maximalism.
+* **Status:** Building my portfolio [Kaz.co](https://m0waqask.com)
 
-<div align="center">
-  
-| **Languages** | **Frontend & Design** | **Data & AI** |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js" /> | <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,figma,ps,ai" /> | <img src="https://skillicons.dev/icons?i=sklearn,pandas" /> |
+---
 
-</div>
-
-<br />
-
-### <img src="https://media.giphy.com/media/HTE7iV8aXfBMjUaD2e/giphy.gif" width="30"> GitHub Analytics
+### <img src="https://media.giphy.com/media/HCLbhUDRzDxbUClyxl/giphy.gif" width="35"> The Arsenal
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=m0waqask&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117" />
+    <td align="center" width="33%"><b>🎨 Design & UI</b></td>
+    <td align="center" width="33%"><b>💻 Core & Web</b></td>
+    <td align="center" width="33%"><b>🔓 Security & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd&theme=light" /><br>
+      <i>"Flat design is lazy."</i>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0waqask&show_icons=true&locale=en&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,tailwind,nodejs,html,css" /><br>
+      <i>"Performance first."</i>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kali,linux,git,github" /><br>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=plastic&logo=burpsuite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white" />
     </td>
   </tr>
 </table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m0waqask&theme=buefy&hide_border=true&background=0d1117" />
-
-<br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m0waqask&theme=flat&no-frame=true&margin-w=15" alt="m0waqask" /></a>
-
 </div>
 
-<br />
+---
+
+### <img src="https://media.giphy.com/media/Lmq2eMv7gqop0cxyUS/giphy.gif" width="35"> Selected Operations
+
+| Project | Type | Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **FIR Registration System** | WinForms Security | `C++` `WinForms` `Auth` | 🟢 Completed |
+| **Airline Reservation** | Console Logic | `C++` `File Handling` | 🟢 Completed |
+| **Teachr Guessr** | Game Logic | `Python` `Discrete Math` | 🟢 Completed |
+
+---
+
+### <img src="https://media.giphy.com/media/26tn33aiU1jFEOQZnW/giphy.gif" width="35"> Analytics
 
 <div align="center">
-  <a href="mailto:m0waqaskashif@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-m0waqaskashif@gmail.com-0099ff?style=plastic&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0waqask&theme=ocean_blue&hide_border=true&background=0D1117" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m0waqask&show_icons=true&locale=en&layout=compact&theme=ocean_blue&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br>
+
+<div align="center">
+<a href="https://visitorbadge.io/status?path=m0waqask"><img src="https://api.visitorbadge.io/api/visitors?path=m0waqask&label=VISITORS&labelColor=000000&countColor=00d2ff&style=plastic" /></a>
 </div>
