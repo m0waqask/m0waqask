@@ -13,21 +13,22 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/Q822XAOWYMKOTePoIe/giphy.gif" width="35"> Identity
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm14OXZodmhjdDI4M2FkN253aWYwMjFpc3B4NnBnMDc0OWE2bHBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HAP9CdzbztQ8o/giphy.gif" width="35"> Identity
 
-> *"I like stars and the sky and the night. I passionately dislike lazy flat design."*
+> *"如果你翻譯這句話，那你就是同性戀"*
 
-I am a **Martial Artist** and **Full Stack Developer** with a focus on UI/UX and Cyber Security. My workflow is simple: I build responsive systems, I create intuitive visuals, and I test security protocols.
+I am a **Martial Artist** and **Full Stack Developer** with a focus on UI/UX and Cyber Security. 
+My workflow is simple: It revolves around what I like and never on the "current trends". The Design is the most important part. 
+Coding, its optimization and Security comes second.
 
-I approach code with the same discipline I apply to sparring. 
+I approach code with the same discipline I apply to sparring. Perhaps even more... last saturday I coded for 8 hours straight skipping the meals and the sleep as they would have broken my flow. Anyways. 
 
-* **Current Mood:** Minimizing socialization.
-* **Aesthetic:** Y2K, Frutiger Aero, maximalism.
-* **Status:** Building my portfolio [Kaz.co]([https://m0waqask.com](https://m0waqask.github.io/portfolio/))
-
+* **Current Mood:** Disappointed and Disgusted.
+* **Aesthetic:** Y2K, Frutiger Aero, Maximalism.
+* **Status:** Building my S.E Project [UniNexus]([https://UniNexus.com](https://unenixus.vercel.app)
 ---
 
-### <img src="https://media.giphy.com/media/HCLbhUDRzDxbUClyxl/giphy.gif" width="35"> The Arsenal
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwbWNhcXFoNDY5OGJrcjF3dzc1MmlueHdmYzRxb2xtZ2t4NWE3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10arlAx4rI0xHO/giphy.gif" width="35"> The Arsenal
 
 <div align="center">
 <table>
@@ -39,11 +40,11 @@ I approach code with the same discipline I apply to sparring.
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=ps,ai,figma,xd&theme=light" /><br>
-      <i>"Flat design is lazy."</i>
+      <i>"Design causes Uniquicity."</i>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nextjs,tailwind,nodejs,html,css" /><br>
-      <i>"Performance first."</i>
+      <i>"Anyone can code with AI now lol."</i>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=kali,linux,git,github" /><br>
@@ -56,17 +57,20 @@ I approach code with the same discipline I apply to sparring.
 
 ---
 
-### <img src="https://media.giphy.com/media/Lmq2eMv7gqop0cxyUS/giphy.gif" width="35"> Selected Operations
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pwbWNhcXFoNDY5OGJrcjF3dzc1MmlueHdmYzRxb2xtZ2t4NWE3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lUQcU8SW2jDPWbYrsi/giphy.gif" width="35"> Selected Operations
 
 | Project | Type | Stack | Status |
 | :--- | :--- | :--- | :--- |
+
+| **Kaz - Small Scale Primitive AI | Data Structures Searching and Sorting | `Node` `REACT` `Tailwind` `Python` `Firebase` | 🔻🔻🔻 In Progress |
+| **UniNexus - Full Fledged Social Platform ** | Real World Logic | `Node` `REACT` `Tailwind` `Python` `Firebase` | 🔻🔻🔻 In Progress |
 | **FIR Registration System** | WinForms Security | `C++` `WinForms` `Auth` | 🟢 Completed |
 | **Airline Reservation** | Console Logic | `C++` `File Handling` | 🟢 Completed |
 | **Teachr Guessr** | Game Logic | `Python` `Discrete Math` | 🟢 Completed |
 
 ---
 
-### <img src="https://media.giphy.com/media/26tn33aiU1jFEOQZnW/giphy.gif" width="35"> Analytics
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFqemFvMnU5ZG82dHl4Y3Q5d242Z2RucDV4bzRvdTZyeTZicXc4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AYhNomPYtxFOU/giphy.gif" width="35"> Analytics
 
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m0waqask&theme=ocean_blue&hide_border=true&background=0D1117" />
