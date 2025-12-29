@@ -2,6 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5,ff00ff&height=280&section=header&text=WAQAS%20K&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=MARTIAL%20ARTIST%20%2F%20DEV&descAlignY=55&descAlign=50&animation=fadeIn&stroke=000000&strokeWidth=2" alt="header" width="100%"/>
 
+<p align="center">
+  <img src="https://cyber.dabamos.de/88x31/linux_powered.gif" />
+  <img src="https://cyber.dabamos.de/88x31/vim.gif" />
+  <img src="https://cyber.dabamos.de/88x31/python.gif" />
+  <img src="https://cyber.dabamos.de/88x31/internet-explorer-4.0.gif" />
+  <img src="https://cyber.dabamos.de/88x31/cyber-security.gif" />
+</p>
+
 <table border="0" cellpadding="10" cellspacing="0" bgcolor="#000000" style="border: 2px solid #00d2ff; border-radius: 15px;">
     <tr>
         <td align="center">
@@ -17,7 +25,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="border-radius: 10px;">
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFqemFvMnU5ZG82dHl4Y3Q5d242Z2RucDV4bzRvdTZyeTZicXc4aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AYhNomPYtxFOU/giphy.gif" width="40" style="border: 2px solid #00d2ff; border-radius: 50%;"> Identity
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFqemFvMnU5ZG82dHl4Y3Q5d242Z2RucDV4bzRvdTZyeTZicXc4aiZlcD12MV9naWZzX3NlYXJ_nZjaCZjdD1n/AYhNomPYtxFOU/giphy.gif" width="40" style="border: 2px solid #00d2ff; border-radius: 50%;"> Identity
 
 <div align="center">
 <table border="0" width="90%" cellpadding="15" bgcolor="#0a0a0a" style="border: 3px ridge #3a7bd5;">
@@ -93,13 +101,13 @@ I approach code with the same discipline I apply to sparring. Perhaps even more.
             <td><b>Kaz - Small Scale Primitive AI</b></td>
             <td>Data Structures Searching and Sorting</td>
             <td><samp>`Node` `REACT` `Tailwind` `Python` `Firebase`</samp></td>
-            <td>🔻🔻🔻 In Progress</td>
+            <td>🔻 In Progress</td>
         </tr>
         <tr bgcolor="#1a1a1a">
             <td><b>UniNexus - Full Fledged Social Platform</b></td>
             <td>Real World Logic</td>
             <td><samp>`Node` `REACT` `Tailwind` `Python` `Firebase`</samp></td>
-            <td>🔻🔻🔻 In Progress</td>
+            <td>🔻 In Progress</td>
         </tr>
         <tr>
             <td><b>FIR Registration System</b></td>
@@ -126,3 +134,14 @@ I approach code with the same discipline I apply to sparring. Perhaps even more.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" style="border-radius: 10px;">
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm14OXZodmhjdDI4M2FkN253aWYwMjFpc3B4NnBnMDc0OWE2bHBtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HAP9CdzbztQ8o/giphy.gif" width="40" style="border: 2px solid #00d2ff; border-radius: 50%;"> Analytics
+
+<div align="center">
+<p>
+  <img src="https://cyber.dabamos.de/88x31/windows_media_player.gif" />
+  <img src="https://cyber.dabamos.de/88x31/photoshop.gif" />
+  <img src="https://cyber.dabamos.de/88x31/hack-the-planet.gif" />
+  <img src="https://cyber.dabamos.de/88x31/now.gif" />
+  <img src="https://cyber.dabamos.de/88x31/valid-html.gif" />
+</p>
+<a href="https://visitorbadge.io/status?path=m0waqask"><img src="https://api.visitorbadge.io/api/visitors?path=m0waqask&label=VISITORS&labelColor=000000&countColor=00d2ff&style=plastic" /></a>
+</div>
